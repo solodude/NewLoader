@@ -1,0 +1,10 @@
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\bin\Debug\NewLoader.exe.config
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\bin\Debug\NewLoader.exe
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\bin\Debug\NewLoader.pdb
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\obj\Debug\NewLoader.csprojResolveAssemblyReference.cache
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\obj\Debug\NewLoader.Form1.resources
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\obj\Debug\NewLoader.Properties.Resources.resources
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\obj\Debug\NewLoader.csproj.GenerateResource.Cache
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\obj\Debug\NewLoader.csproj.CoreCompileInputs.cache
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\obj\Debug\NewLoader.exe
+C:\Users\Imanilus\source\repos\NewLoader\NewLoader\obj\Debug\NewLoader.pdb
