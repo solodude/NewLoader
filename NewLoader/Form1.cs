@@ -15,6 +15,7 @@ namespace NewLoader
         public Form1()
         {
             InitializeComponent();
+           
         }
 
         private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
@@ -40,6 +41,16 @@ namespace NewLoader
         private void button1_MouseLeave(object sender, EventArgs e)
         {
             this.button1.BackgroundImage = ((System.Drawing.Image)(Properties.Resources.signin));
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            //RETURN 0
         }
     }
 }
